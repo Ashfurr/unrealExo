@@ -1,0 +1,36 @@
+A) théorique
+
+1) ce jeux composer d'une symphonie de note a charactère répétitif, de platformes et de mechanique somme toute assez basique pour un jeu 2d nous permet d'affirmer qu'il s'agit ici d'un jeu
+de type "platformer", un style de jeu très charactéristique des jeux 2d et qui a su prendre un essort a la suite du très célèbre Mario Bros (celui ci ayant était admirer par son Ld).
+
+
+2)les différentes mechaniques de ce jeux sont : 
+- le walljump : plus communément appeller "saute mur" et en effet une méchanique qui permet a notre charactère principal de pouvoir s'accrocher a une surface, ici un mur pour pouvoir
+se déplacer le long de l'axe des ordonnées, cette méchanique permet entre autre de simuler un ascenseur mais ici en version ninja 
+- le resetJump : Celui est la méchanique principal du jeu, indispensable car tout bon ninja c'est que si tu veux sauter plus haut il faut toucher la tete de ton ennemie ou alors l'objet 
+mis en avant dans le jeu et qui semble interractible, de plus cette mechanique nous permet d'esquiver certains pattern de monstres
+- le grapin : car tout bon ninja sais attraper l'anneau en face de lui a l'aide d'une corde pour pouvoir se propulser plus loins  
+
+3) Oui je le pense car comme je le disais précédamment, déjà que la musique a un effet répétitif sur le jeu, celle ci nous force a avoir un timing de jeu assez rapide, de plus 
+le style graphique ayant un design plutot épuré avec peu de fx quand à l'attaque, nous offre une vision de jeu clair et nous permet donc de pouvoir foncer a toute vitesse tel un ninja 
+
+4) Notre avatar revais ses plus beau vetement de ninja et se pare d'un beau chapeau chinois, on as l'impression ici qu'il deviens le samurai légendaire. De plus le jeu passe de 8 a 16 bit
+les couleurs sont donc plus nombreuse, plus belles, le jeu se dote d'une sorte de remasterisation instantané avec une bande son qui passe elle aussi en 16 bit et nous offres tout un panel 
+de notes qui resplendissent aux fur et a mesure que celle ci s'assemble dans nos oreille pour former une nouvelle mélodie 
+
+5) Cette méchanique n'a pas vraiment de changement sur le gameplay car les méchaniques principales ne change pas, toutefois le jeu possédant de nombreuses méchanique secondaire, celle ci 
+ce retrouve affecter (sans doute j'ai pas jouer je brasse un peu de l'air la mais continue de lire stv) par ce nouveaux changement qui offre un nouveau vent de fraicheur sur les quelques 
+heures déjà passer ici a jouer a ce jeux qui est une pépite non pas d'or mais de bronze ! 
+
+6) Personnellement j'ai trouvé un réel interet a ce jeu de pars son coté a induire en moi des voix de narration totalement raciste mais également par son Level design (capacité a faire un 
+niveau qui nous permet d'apprendre a jouer au jeu mais sans réelement nous le dire clairement) toutefois n'étant pas réelement fan des jeux de platform hormis peut etre ori je 
+ne vais pas continuer car bah flemme quoi  
+
+B) Pratique
+1) pour moi la méchanique principal est le fait de pouvoir reset son jump si l'on touche un élément interractible (objet ou monstre) 
+2) j'ai d'abord chercher ce qui définissais dans unreal ce qui nous permetter de sauter, puis comment le modifier, j'augmente donc le nombre de saut maximum a chaque fois que je touche un 
+objet qui contient une interface le permettant et une je reset le nombre de saut a 1 après un délai 
+3) cette méchanique est primordial car même sans outil du shop elle permet de faire tout le jeu sans mourir et d'acceder a tout les endroit disponible 
+4) elle ne m'a pas plus plus que ça mais fallais que je la fasse c'est tout 
+
+j'ai également fais le wall jump car pour moi il est tout autant essentiel pour progresser
